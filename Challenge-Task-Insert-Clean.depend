@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1792344160 source:c:\users\user\downloads\challenge-task-insert-clean\main.cpp
+	<iostream>
+	<vector>
+
